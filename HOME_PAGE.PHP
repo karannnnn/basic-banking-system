@@ -24,10 +24,7 @@
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
           <a class="nav-link active" aria-current="page" href="HOME_PAGE.php">Home</a>
-          <a class="nav-link" href="#">About</a>
-          <a class="nav-link" href="createuser.php">create a user</a>
-          <a class="nav-link" href="transfermoney.php">transfer money</a>
-          <a class="nav-link" href="#">View All Customers</a>
+          <a class="nav-link" href="transfermoney.php">transfer money and view customers</a>
           <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true"></a>
         </div>
       </div>
